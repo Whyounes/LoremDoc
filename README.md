@@ -1,2 +1,2 @@
 # LoremDoc
-A Lorem ipsum documentation folder for test
+A Lorem ipsum documentation repository to test collaboration.
